@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kcloak-app"
+    }
+  },
+  "defaultProject": "kcloak-app",
+  "cli": {
+    "analytics": "33e55375-df18-4bbd-8d12-0b9a79c4eae4"
+  }
 }
